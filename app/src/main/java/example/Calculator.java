@@ -18,6 +18,6 @@ public class Calculator {
 
     public double divide(int a, int b) {
         // TODO: Implement this method
-        return a/b;
+        return (double) a/b;
     }
 }
